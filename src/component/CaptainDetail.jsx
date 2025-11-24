@@ -15,6 +15,7 @@ const CaptainDetail = (props) => {
             <MdAccessTime />
           <h1>10.4</h1>
           <h1>Hours online</h1>
+         
 
         </div>
         <div className='flex justify-center flex-col items-center'>
